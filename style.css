@@ -28,3 +28,11 @@ body
     position: sticky;
     width: 100%;
 }
+.modal-body{
+    text-align: left;
+}
+canvas{
+    border-radius: 5x;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
+}
